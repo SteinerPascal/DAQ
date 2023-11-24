@@ -1,5 +1,5 @@
 # DAQ for plant Electrophysiology
-Simple Data Aquisition (DAQ) on Raspberry Pi for plant electrophysiology project written in python. This project was part of a bigger setup for a semester assignment. Be aware: This is an experimental project!
+Simple Data Aquisition (DAQ) on Raspberry Pi for plant electrophysiology project written in python. This project was part of a bigger setup for a semester assignment. Be aware: This is an experimental project and only a prototype!
 
 ## Project setup
 This setup consisted of two parts. The first is for measuring plant signals and the second for the environmental data.
